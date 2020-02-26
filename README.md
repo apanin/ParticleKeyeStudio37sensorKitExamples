@@ -9,7 +9,7 @@
 
 This repository contains a series of example codes showcasing the features of the sensors contained in the KeyeStudio 37 in 1 sensorkit. Each sensor has an example code which has been adapted and tested for the particle photon.
 
-### Hookup images
+# Hookup Schematics
 
 ## Sensor 1: Ks0017 keyestudio White LED Module
 ![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s1.png)
