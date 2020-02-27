@@ -80,10 +80,10 @@ This repository contains a series of example codes showcasing the features of th
 ## Sensor 23: Ks0041 keyestudio Analog Alcohol Sensor
 ![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s23.png)
 
-## Sensor 24: Ks0027 keyestudio Digital IR Transmitter Module
+//## Sensor 24: Ks0027 keyestudio Digital IR Transmitter Module
 ![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s24.png)
 
-## Sensor 25: Ks0026 keyestudio Digital IR Receiver Module
+//## Sensor 25: Ks0026 keyestudio Digital IR Receiver Module
 ![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s25.png)
 
 ## Sensor 26: Ks0013 keyestudio Rotary Encoder Module
@@ -98,26 +98,26 @@ This repository contains a series of example codes showcasing the features of th
 ## Sensor 29: Ks0012 keyestudio ADXL345 Three Axis Acceleration Module
 ![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s29.png)
 
-## Sensor 30: Ks0024 keyestudio Knock Sensor Module
-![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s15.png)
+## Sensor 30: Ks0034 keyestudio DHT11 Temperature and Humidity Sensor
+![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s30.png)
 
-## Sensor 31: Ks0024 keyestudio Knock Sensor Module
-![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s15.png)
+//## Sensor 31: Ks0055 keyestudio Bluetooth Module
+![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s31.png)
 
-## Sensor 32: Ks0024 keyestudio Knock Sensor Module
-![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s15.png)
+## Sensor 32: Ks0098 keyestudio TEMT6000 Ambient Light Sensor
+![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s32.png)
 
-## Sensor 33: Ks0024 keyestudio Knock Sensor Module
-![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s15.png)
+## Sensor 33: Ks0206 Keyestudio SR01 Ultrasonic Sensor
+![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s33.png)
 
-## Sensor 34: Ks0024 keyestudio Knock Sensor Module
-![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s15.png)
+## Sensor 34: Ks0008 keyestudio Joystick Module
+![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s34.png)
 
-## Sensor 35: Ks0024 keyestudio Knock Sensor Module
-![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s15.png)
+//## Sensor 35: Ks0039 keyestudio DS3231 Clock Module
+//![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s35.png)
 
-## Sensor 36: Ks0024 keyestudio Knock Sensor Module
-![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s15.png)
+//## Sensor 36: Ks0024 Ks0011 keyestudio 5V Relay Module
+//![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s36.png)
 
-## Sensor 37: Ks0024 keyestudio Knock Sensor Module
-![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s15.png)
+## Sensor 37: Ks0203 keyestudio Vapor Sensor
+![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s37.png)
