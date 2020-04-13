@@ -13,11 +13,11 @@ SPECIFICATIONS:
 
 module emits one color 
 can be set on or off
-
+src: https://wiki.keyestudio.com/Ks0017_keyestudio_White_LED_Module
 */
 
 
-int led = A0; 
+#define led A0; 
 void setup()
 {
   pinMode(led, OUTPUT);     //Set Pin7 as output
