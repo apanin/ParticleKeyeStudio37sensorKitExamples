@@ -1,6 +1,6 @@
 /* 
 
-KS0016 keyesstudio Piranha LED Light Module
+KS0016 keye studio RGB LED
 _________________________________
 |  SETUP                          | 
 |Sensor pin  ::    Particle pin   |
