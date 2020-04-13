@@ -1,6 +1,6 @@
 /* 
 
-KS0016 keyesstudio Piranha LED Light Module
+Ks0014 keyestudio Analog Rotation Sensor
 _________________________________
 |  SETUP                          | 
 |Sensor pin  ::    Particle pin   |
@@ -15,7 +15,7 @@ SPECIFICATIONS:
 Analog
 voltage subdivided by 4096
 
-src: https://wiki.keyestudio.com/Ks0068_keyestudio_37_in_1_Sensor_Kit_for_Arduino_Starters#Project_8:_Analog_Rotation_Sensor
+src: https://wiki.keyestudio.com/Ks0014_keyestudio_Analog_Rotation_Sensor
 */
 
 #define sensorPin A0
