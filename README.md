@@ -80,10 +80,10 @@ This repository contains a series of example codes showcasing the features of th
 ## Sensor 23: Ks0041 keyestudio Analog Alcohol Sensor
 <img src="https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s23.png" width="50%" height="50%" />
 
-//## Sensor 24: Ks0027 keyestudio Digital IR Transmitter Module
+## Sensor 24: Ks0027 keyestudio Digital IR Transmitter Module
 <img src="https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s24.png" width="50%" height="50%" />
 
-//## Sensor 25: Ks0026 keyestudio Digital IR Receiver Module
+## Sensor 25: Ks0026 keyestudio Digital IR Receiver Module
 <img src="https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s25.png" width="50%" height="50%" />
 
 ## Sensor 26: Ks0013 keyestudio Rotary Encoder Module
