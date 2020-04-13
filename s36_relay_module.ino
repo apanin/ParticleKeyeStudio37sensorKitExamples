@@ -1,0 +1,34 @@
+  
+/* 
+Ks0035 keyestudio DS3231 Clock Module
+_________________________________
+|  SETUP                          | 
+|Sensor pin  ::    Particle pin   |
+|   +        ::        3.3v       |
+|   -        ::        GND        |
+|   S        ::        D0         |
+|   R        ::        D1         |
+|_________________________________|
+
+SPECIFICATIONS:
+5v relay
+
+
+src: https://wiki.keyestudio.com/Ks0039_keyestudio_DS3231_Clock_Module
+*/
+
+
+#define Relay D0
+  void setup()
+{
+  pinMode(A1, OUTPUT);        
+  digitalWrite(D1, HIGH);     
+  pinMode(Relay, OUTPUT);     
+}
+void loop()
+{
+          digitalWrite(Relay, HIGH);   //Turn off relay
+          delay(2000);
+          digitalWrite(Relay, LOW);    //Turn on relay
+          delay(2000);
+}
