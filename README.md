@@ -12,7 +12,8 @@ This repository contains a series of example codes showcasing the features of th
 # Hookup Schematics
 
 ## Sensor 1: Ks0017 keyestudio White LED Module
-![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s1.png | width=100)
+<img src="https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s1.png" width="50%" height="50%" />
+![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s1.png)
 
 ## Sensor 2: Ks0016 keyestudio Piranha LED Light Module
 ![sensor1_hookup](https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s2.png)
