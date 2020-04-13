@@ -1,6 +1,6 @@
 /* 
 
-KS0016 keyesstudio Piranha LED Light Module
+KS0035 Microphone Sound Sensor with Potentiometer
 _________________________________
 |  SETUP                          | 
 |Sensor pin  ::    Particle pin   |
@@ -15,7 +15,7 @@ SPECIFICATIONS:
 analog Output
 Detects "loudness"
 
-src: hhttps://wiki.keyestudio.com/Ks0068_keyestudio_37_in_1_Sensor_Kit_for_Arduino_Starters#Project_7:_Analog_Sound
+src: https://wiki.keyestudio.com/KS0035_Microphone_Sound_Sensor_with_Potentiometer
 */
 
 int sensorPin =A0 ;  // define analog port A0
