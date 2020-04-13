@@ -101,9 +101,6 @@ This repository contains a series of example codes showcasing the features of th
 ## Sensor 30: Ks0034 keyestudio DHT11 Temperature and Humidity Sensor
 <img src="https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s30.png" width="50%" height="50%" />
 
-//## Sensor 31: Ks0055 keyestudio Bluetooth Module
-<img src="https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s31.png" width="50%" height="50%" />
-
 ## Sensor 32: Ks0098 keyestudio TEMT6000 Ambient Light Sensor
 <img src="https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s32.png" width="50%" height="50%" />
 
@@ -113,7 +110,7 @@ This repository contains a series of example codes showcasing the features of th
 ## Sensor 34: Ks0008 keyestudio Joystick Module
 <img src="https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s34.png" width="50%" height="50%" />
 
-//## Sensor 35: Ks0039 keyestudio DS3231 Clock Module
+## Sensor 35: Ks0039 keyestudio DS3231 Clock Module
 //<img src="https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s35.png" width="50%" height="50%" />
 
 //## Sensor 36: Ks0024 Ks0011 keyestudio 5V Relay Module
