@@ -1,6 +1,6 @@
 /* 
 
-KS0016 keyesstudio Piranha LED Light Module
+Ks0020 keyestudio Hall Magnetic Sensor
 _________________________________
 |  SETUP                          | 
 |Sensor pin  ::    Particle pin   |
