@@ -113,7 +113,7 @@ This repository contains a series of example codes showcasing the features of th
 ## Sensor 35: Ks0039 keyestudio DS3231 Clock Module
 //<img src="https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s35.png" width="50%" height="50%" />
 
-//## Sensor 36: Ks0024 Ks0011 keyestudio 5V Relay Module
+## Sensor 36: Ks0024 Ks0011 keyestudio 5V Relay Module
 //<img src="https://github.com/apanin/ParticleKeyeStudio37sensorKitExamples/blob/master/images/s36.png" width="50%" height="50%" />
 
 ## Sensor 37: Ks0203 keyestudio Vapor Sensor

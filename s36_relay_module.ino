@@ -14,7 +14,7 @@ SPECIFICATIONS:
 5v relay
 
 
-src: https://wiki.keyestudio.com/Ks0039_keyestudio_DS3231_Clock_Module
+src: https://wiki.keyestudio.com/Ks0011_keyestudio_5V_Relay_Module
 */
 
 

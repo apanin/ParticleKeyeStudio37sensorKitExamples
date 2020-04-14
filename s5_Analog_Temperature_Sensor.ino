@@ -1,6 +1,6 @@
 /* 
 
-KS0016 keyesstudio Piranha LED Light Module
+Ks0033 keyestudio Analog Temperature Sensor
 _________________________________
 |  SETUP                          | 
 |Sensor pin  ::    Particle pin   |
@@ -16,7 +16,7 @@ analog temperature sensor
 Temperature range: ~-55c to ~315c
 value is initially analog (voltage ratio) / can be converted to celsius through math
 
-src: https://wiki.keyestudio.com/Ks0016_keyestudio_Piranha_LED_Light_Module
+src: https://wiki.keyestudio.com/Ks0033_keyestudio_Analog_Temperature_Sensor
 */
 
 #include <math.h>

@@ -1,6 +1,6 @@
 /* 
 
-KS0016 keyesstudio Piranha LED Light Module
+Ks0028 keyestudio Photocell Sensor
 _________________________________
 |  SETUP                          | 
 |Sensor pin  ::    Particle pin   |
@@ -17,7 +17,7 @@ max value: 4096
 
 https://learn.adafruit.com/photocells/measuring-light
 
-src: https://wiki.keyestudio.com/Ks0016_keyestudio_Piranha_LED_Light_Module
+src: https://wiki.keyestudio.com/Ks0028_keyestudio_Photocell_Sensor
 */
 
 #define sensorPin A0 
