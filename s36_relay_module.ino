@@ -1,6 +1,6 @@
   
 /* 
-Ks0035 keyestudio DS3231 Clock Module
+Ks0011 keyestudio 5V Relay Module
 _________________________________
 |  SETUP                          | 
 |Sensor pin  ::    Particle pin   |
