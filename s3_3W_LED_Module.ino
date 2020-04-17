@@ -1,6 +1,6 @@
 /* 
 
-KS0016 keyesstudio Piranha LED Light Module
+Ks0010 keyestudio 3W LED Module
 _________________________________
 |  SETUP                          | 
 |Sensor pin  ::    Particle pin   |
@@ -15,7 +15,7 @@ SPECIFICATIONS:
 bright light 
 intensity can fluctuate on a PWM pin (D0, D1, D2, D3, D4, A4, A5, WKP, RX, TX)
 
-src: https://wiki.keyestudio.com/Ks0068_keyestudio_37_in_1_Sensor_Kit_for_Arduino_Starters#Project_3:_3W_LED_Module
+src: https://wiki.keyestudio.com/Ks0010_keyestudio_3W_LED_Module
 */
 #include <math.h>
 #define led D0  
